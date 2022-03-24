@@ -1,2 +1,2 @@
 # Patika.dev
-Projects
+Veri yapıları ve algoritmalar projesi
